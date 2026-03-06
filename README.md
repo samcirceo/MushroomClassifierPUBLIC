@@ -4,13 +4,13 @@ Machine learning project that predicts whether a mushroom is edible or poisonous
 <img src="https://raw.githubusercontent.com/samcirceo/samcirceo/main/images/mushroom.png" width="350" />
 
 ### Overview of Project
-- Preprocessing steps included data cleaning, splitting data into training and test sets, and One Hot Encoding categorical features.
-- Built a baseline classification model using neural network
-- Implemented Principal Component Analysis (PCA) to reduce feature dimensionality
-- Compared model performance using confusion matrices and validation metrics
+- Preprocessing steps included data cleaning, splitting data into training and test sets, and **One Hot Encoding** categorical features.
+- Built a baseline classification model using **Neural Network**
+- Implemented **Principal Component Analysis (PCA)** to reduce feature dimensionality
+- Compared model performance using **Confusion Matrices** and validation metrics
 
 ### Conclusions
-- With the PCA model, we were able to reduce the number of features by **40%**, while retainining 95% of the explained variance. 
+- With the PCA model, we were able to reduce the number of features by ~40%, while retainining 95% of the explained variance. 
 - The confusion matrix shows that both models have high levels of accuracy.
 
 ### Key Takeaways
