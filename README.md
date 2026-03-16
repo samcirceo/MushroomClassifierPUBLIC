@@ -5,7 +5,7 @@
 
 This machine learning project predicts whether a mushroom is edible or poisonous based on categorical features, comparing a baseline model with a PCA-reduced model to assess the impact of dimensionality reduction on performance and training efficiency.
 
-This repository provides a high level overview of the project. The [complete project](https://github.com/samcirceo/MushroomClassification), including code and detailed results, is available in a private repository. If you would like access, please contact me with your GitHub username.
+_This repository provides a high level overview of the project. The [complete project](https://github.com/samcirceo/MushroomClassification), including code and detailed results, is available in a private repository. If you would like access, please contact me with your GitHub username._
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samcirceo/samcirceo/main/images/mushroom.png" width="350">
