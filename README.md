@@ -33,6 +33,6 @@ _This repository provides a high level overview of the project. The [complete pr
 
 ### Where to next?
 - 🚀 Browse my other projects on my [portfolio](https://samcirceo.github.io/)
-- 🔒 View the [full private repository](https://github.com/samcirceo/MushroomClassification) for this project
+- 🔒 View the [full private repository](https://github.com/samcirceo/MushroomClassification) for this project *(available upon request)*
 - 📫 Reach me at: samicirceo1@gmail.com
 
