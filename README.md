@@ -32,7 +32,7 @@ _This repository provides a high level overview of the project. The [complete pr
 - Evaluate models using additional metrics such as precision, recall, and F1-score
 
 ### Where to next?
-🚀 Browse my other projects on my [portfolio](https://samcirceo.github.io/)
-🔒 View the [full private repository](https://github.com/samcirceo/MushroomClassification) for this project
-📫 Reach me at: samicirceo1@gmail.com
+- 🚀 Browse my other projects on my [portfolio](https://samcirceo.github.io/)
+- 🔒 View the [full private repository](https://github.com/samcirceo/MushroomClassification) for this project
+- 📫 Reach me at: samicirceo1@gmail.com
 
