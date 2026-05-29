@@ -36,3 +36,5 @@ _This repository provides a high level overview of the project. The [complete pr
 - 🔒 View the [full private repository](https://github.com/samcirceo/MushroomClassification) for this project *(available upon request)*
 - 📫 Reach me at: samicirceo1@gmail.com
 
+To request access, please email me your GitHub username.
+
